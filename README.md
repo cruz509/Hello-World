@@ -1,5 +1,3 @@
 # Hello-World
 Cruzitos Repo
-Cruzito here!
-
-I like Node.js and coffeescript(that's what I'm made of)
+Cruzito here...still learning sorry if I piss anyone off...just learning still
